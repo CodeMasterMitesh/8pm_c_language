@@ -1,0 +1,10 @@
+Roll Number : 101
+Name : Sanket Suthar
+Subject Name : Maths
+Marks : 98
+Subject Name : English
+Marks : 75
+Subject Name : Computer
+Marks : 65
+Total Marks : 238
+Average Marks : 79.33

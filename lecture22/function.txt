@@ -1,0 +1,46 @@
+A function is a block of code which only runs when it is called.
+You can pass data, known as parameters, into a function.
+
+Functions are used to perform certain actions, and 
+they are important for reusing code: Define the code once, and use it many times.
+ex.
+void myFunction() 
+{
+  // code to be executed
+}
+
+//output
+
+int sum(int x, int y)
+{
+  printf("%d",x+y);
+}
+
+myFunction() is the name of the function
+void :- means that the function does not have a return value.
+Inside the function (the body), add code that defines what the function should do
+
+int myFunction(int,int);
+
+// Function prototype
+C programming, a function prototype is a declaration of a function that specifies its name, return type, and parameters but does not contain the function body. 
+It essentially tells the compiler what a function looks like before its actual definition or implementation appears in the code. 
+This allows functions to be used before they are defined in the source code.
+int sum(int, int);
+
+Call a Function
+Declared functions are not executed immediately. 
+They are "saved for later use", and will be executed when they are called.
+
+To call a function, write the function's name followed by two parentheses () and a semicolon ;
+
+ex. 
+// Create a function
+void myFunction() {
+  printf("I just got executed!");
+}
+
+int main() {
+  myFunction(); // call the function
+  return 0;
+}
