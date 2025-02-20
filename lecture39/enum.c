@@ -37,7 +37,7 @@ int main() {
 
        int r = getDaysInMonth(selectMonth);
 
-       printf("Days for this %d is %d",input,r);
+       printf("Days for Month of %d is %d",input,r);
     }
 
 

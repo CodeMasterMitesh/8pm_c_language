@@ -1,2 +1,2 @@
-Roll Number Student Name Maths English Computer Total Marks Average Marks
-101        Jaydipsinh       52        75        78        205        68.33    
+Roll Number Student Name Maths English Computer Total Marks  Percentage
+101        Jaydipsinh       52        75        78           68.33    

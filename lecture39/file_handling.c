@@ -5,7 +5,7 @@ int main() {
     
     FILE *fp;
 
-    char text[50] = "Mitesh Prajapati";
+    char text[50] = "Patel Web Solution";
 
     fp = fopen("first.txt","w");
 
